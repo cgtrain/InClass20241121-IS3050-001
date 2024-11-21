@@ -11,5 +11,9 @@ namespace InClass20241121_IS3050_001
         {
             Console.WriteLine("Hello from HelloWorld.SayHello()");
         }
+        static void Main()
+        {
+            Console.WriteLine(4 % 2 == 0);
+        }
     }
 }
